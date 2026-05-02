@@ -1,0 +1,78 @@
+# macOS
+.DS_Store
+._*
+
+# Python virtual envs and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local runtime artifacts (will be added by overnight executor)
+audit_log/
+audit/runtime/
+kg_store/
+runtime/cache/
+*.sqlite
+*.duckdb
+*.lock
+
+# Bulk data — must not be vendored (per MODUS-OPERANDI.md Constraints)
+*.parquet
+*.h5
+*.hdf5
+*.feather
+data/raw/
+data/bulk/
+
+# Genomic data — large files go to Hugging Face under Architect-Prime user
+*.vcf
+*.vcf.gz
+*.bcf
+*.pgen
+*.pvar
+*.psam
+*.bed
+*.bim
+*.fam
+*.gfa
+*.tdb/
+*.hvcf
+
+# Model checkpoints — go to Hugging Face under Architect-Prime user
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+checkpoints/
+models/
+
+# Profiling traces
+profiling/
+
+# IDE
+.idea/
+.vscode/
+
+# Editor swap files
+*.swp
+*.swo
+
+# R artefacts
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+
+# Phenomics image stacks
+*.tif
+*.tiff
+images/raw/
