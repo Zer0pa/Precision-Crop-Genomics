@@ -30,7 +30,7 @@ This is the eighth Zer0pa workstream. It is a pipeline-vertical research project
 | BRIEFING_ASSETS_COMMITTED | 5/5 (Report 1 + synthesis + RESISTANCE + MODUS-OPERANDI + HANDOFF-TO-ORCHESTRATOR) | repo-resident; sibling-workstream pattern |
 | ENGINEERING_BLOCKER_LOOKUPS | 10/10 resolved (EU NGT / US APHIS / PHGv2 / plant DNA FM weights / AlphaFold DB v4 / Living Models BOTANIC / GRF-GIF / Corteva WUS2-BBM / Pairwise Fulcrum / BrAPI v2.1) | 2026-05-02 lookup pass |
 | ANTI_DECISIONS_PRE_REGISTERED | 18 enumerated as binding falsifiers | sourced from Report 1 §3-5 + synthesis #11 |
-| READINESS_VERDICT | STAGE-2 RESEARCH-INTAKE; PRD outline awaiting operator confirmation | sibling-workstream stage-3 gate (Synbio / Materials / Energy / Health are stage-3 INTERNAL) |
+| READINESS_STAGE | STAGE-2 RESEARCH-INTAKE; PRD outline awaiting operator confirmation | sibling-workstream stage-3 gate (Synbio / Materials / Energy / Health are stage-3 INTERNAL) |
 
 > Source: `source-briefs/01-precision-crop-genomics-report-1-full-technology-landscape.md`, `synthesis/01-fresh-eyes-on-precision-crop-genomics-report-1.md`, `PRD-OUTLINE-FOR-OPERATOR-REVIEW.md`, and `MODUS-OPERANDI.md` § Acceptance gates.
 
@@ -50,7 +50,7 @@ This is the eighth Zer0pa workstream. It is a pipeline-vertical research project
 
 | Field | Value |
 | --- | --- |
-| Verdict | STAGE-2 RESEARCH-INTAKE |
+| Stage | STAGE-2 RESEARCH-INTAKE |
 | Posture | `prd_outline_drafted_pending_operator_confirmation` |
 | Checks | All five briefing assets committed; engineering-blocker lookups resolved; sub-agent dispatch table populated; 22 falsifiers previewed |
 | Authority metric | `phase_0_zero_on_cpu_acceptance_gate` not yet attempted (no Phase-0 code) |
@@ -95,8 +95,8 @@ PRD outline at `PRD-OUTLINE-FOR-OPERATOR-REVIEW.md` awaits operator confirmation
 | V_06 | Sub-agent dispatch table populated with Sonnet 4.6 / Opus 4.7 only | PASS |
 | V_07 | ZERO-on-CPU before Runpod committed as binding Phase-0 acceptance gate | PASS |
 | V_08 | Operator review of PRD outline | PENDING |
-| V_09 | Phase-0 layer code (license-stamping ETL service through L6 dossier validators) | NOT-STARTED |
-| V_10 | Runpod cutover golden-fixture invariance test | NOT-STARTED |
+| V_09 | Phase-0 layer code (license-stamping ETL service through L6 dossier validators) | UNTESTED |
+| V_10 | Runpod cutover golden-fixture invariance test | UNTESTED |
 
 ## Proof Anchors
 
