@@ -44,7 +44,7 @@ This is the eighth Zer0pa workstream. It is a pipeline-vertical research project
 | Visibility | PRIVATE |
 | Default Branch | main |
 | Authority Source | `PRD-OUTLINE-FOR-OPERATOR-REVIEW.md` (pending) → `PRD.md` (forthcoming) |
-| License | Code license set when first code lands (Apache-2.0 default per Zer0pa workstream pattern); briefing materials are operator-authored |
+| License | Code license set when first code lands (Zer0pa Source-Available License v7.1); briefing materials are operator-authored |
 
 ## Readiness
 
