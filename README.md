@@ -41,7 +41,7 @@ This is the eighth Zer0pa workstream. It is a pipeline-vertical research project
 | Identifier | Precision-Crop-Genomics |
 | Repository | https://github.com/Zer0pa/Precision-Crop-Genomics |
 | Portfolio | Crop Genomics |
-| Visibility | PRIVATE |
+| Visibility | Public · research-intake dossier surface |
 | Default Branch | main |
 | Authority Source | `PRD-OUTLINE-FOR-OPERATOR-REVIEW.md` (pending) → `PRD.md` (forthcoming) |
 | License | Code license set when first code lands (Zer0pa Source-Available License v7.1); briefing materials are operator-authored |
@@ -141,7 +141,7 @@ Sister workstream `Zer0pa/Synthetic-Biology` (highest-value source — bio-domai
 
 ## Licensing
 
-This repository is part of the Zer0pa Precision Crop Genomics workstream and is currently PRIVATE.
+This repository is part of the Zer0pa Precision Crop Genomics workstream and is publicly visible as a research-intake dossier surface; no Phase-0 code has landed yet (PRD outline awaiting operator confirmation).
 
 **Code license** is set when the first code lands (Apache-2.0 default per the Zer0pa workstream pattern; see `Zer0pa/Synthetic-Biology` and `Zer0pa/Glyph-Engine` for the canonical instantiation).
 
@@ -151,7 +151,7 @@ This repository is part of the Zer0pa Precision Crop Genomics workstream and is 
 
 **Data and fixtures.** No genomic data, phenotypic data, satellite imagery, or model weights are vendored in this repository. Bulk artifacts go to private Hugging Face under the **Architect-Prime** user (NOT the Zer0pa org), with manifests + metadata only on disk. See `DATA_POLICY.md`. The 18 anti-decisions enumerated above bind every dataset and model artifact considered for ingestion.
 
-**Public audit limits.** This repository is currently PRIVATE; external review is by operator grant only. When eventual public exposure is authorised, the public audit surface is bounded by this repository's structural files plus the briefing assets named in Proof Anchors. No partner data, no field trial data, no off-the-shelf licensed regulatory text bodies, no model fine-tune weights are part of the public audit surface. See `PUBLIC_AUDIT_LIMITS.md`.
+**Public audit limits.** This repository is publicly visible as a research-intake dossier surface. The public audit surface is bounded by this repository's structural files plus the briefing assets named in Proof Anchors. No partner data, no field trial data, no off-the-shelf licensed regulatory text bodies, no model fine-tune weights are part of the public audit surface. See `PUBLIC_AUDIT_LIMITS.md`.
 
 ## Quick Start
 
