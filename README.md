@@ -52,7 +52,7 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<div><b>03 · VALUE</b></div>
+<div><b>03 · VALUE OF MARKET</b></div>
       <div>$<span>102.4</span> <span>B</span></div>
       <div>Seed technology scales; <b>the intake packet that joins biology, licensing, and regulatory paths in one place still does not exist.</b></div>
 </td>
