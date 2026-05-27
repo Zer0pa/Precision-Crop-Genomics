@@ -1,5 +1,15 @@
 # Precision-Crop-Genomics
 
+## Install / Developer Commands
+
+<!-- INSTALL-DX:START -->
+#### Package Boundary
+
+No Phase-0 implementation package, PyPI distribution, or CLI is claimed for this repository. Do not add a fake install surface before implementation exists.
+Use the repo-local source, dossier, or proof commands below; do not substitute an unrelated PyPI package.
+<!-- INSTALL-DX:END -->
+
+
 <table width="100%">
 <tr>
 <td width="100%" valign="top">
