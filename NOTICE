@@ -1,9 +1,9 @@
 Zer0pa Precision Crop Genomics
 Copyright (c) 2026 Zer0pa.
 
-This repository is the eighth Zer0pa workstream and is currently PRIVATE.
-Visibility is operator-controlled; do not flip without explicit operator
-authorization (per Zer0pa Lane Agent Front Door Guidance, 2026-05-02).
+This repository is a public Zer0pa workstream.
+Visibility remains operator-controlled; future visibility or publication
+changes require explicit operator authorization.
 
 Code license is set when the first code lands. The Zer0pa workstream
 default is Apache-2.0 for code and CC-BY-4.0 for documentation, instantiated
@@ -11,16 +11,16 @@ in `Zer0pa/Synthetic-Biology` and `Zer0pa/Glyph-Engine`. Until the first
 code lands, this repository contains operator-authored briefing assets and
 orchestrator-authored handoff and PRD-outline materials only.
 
-Briefing materials (`source-briefs/`, `synthesis/`, `RESISTANCE.md`,
-`MODUS-OPERANDI.md`, `HANDOFF-TO-ORCHESTRATOR.md`,
-`ORCHESTRATOR-STARTUP-PROMPT.md`, `PRD-OUTLINE-FOR-OPERATOR-REVIEW.md`,
-this `NOTICE`, `README.md`, `DATA_POLICY.md`, `PUBLIC_AUDIT_LIMITS.md`,
-`TRADEMARKS.md`) are operator-authored or agent-authored under the
+Briefing materials (`docs/research/source-briefs/`, `docs/research/synthesis/`, `docs/research/RESISTANCE.md`,
+`docs/process/MODUS-OPERANDI.md`, `docs/handoffs/HANDOFF-TO-ORCHESTRATOR.md`,
+`docs/handoffs/ORCHESTRATOR-STARTUP-PROMPT.md`, `docs/planning/PRD-OUTLINE-FOR-OPERATOR-REVIEW.md`,
+this `NOTICE`, `README.md`, `docs/legal/DATA_POLICY.md`, `docs/audit/PUBLIC_AUDIT_LIMITS.md`,
+`docs/legal/TRADEMARKS.md`) are operator-authored or agent-authored under the
 operator's authority. Re-use outside Zer0pa is by operator grant only.
 
 "Zer0pa" and "Precision Crop Genomics" used in workstream identity are
 trademarks of Zer0pa. The eventual code-license grant does not grant
-trademark rights. See `TRADEMARKS.md`.
+trademark rights. See `docs/legal/TRADEMARKS.md`.
 
 This repository carries the Boundary block verbatim across every artifact:
 
