@@ -13,7 +13,7 @@ For full install, smoke, source, and developer commands, [click here](#install-d
 <tr>
 <td width="100%" valign="top">
 <div><span><b>00 · PRECISION-CROP-GENOMICS</b> · RESEARCH-INTAKE DOSSIER</span> <span>RESEARCH-READY · DOSSIER ONLY</span></div>
-      <h1>The Seed Knows More <span>Than the Farmer</span></h1>
+      <h1>Seed Knowledge <span>Precision Crop Genomics</span></h1>
       <p>Precision-Crop-Genomics &middot; research-intake dossier &middot; github.com/Zer0pa/Precision-Crop-Genomics &middot; main</p>
       <p>A public intake stage for crop-improvement work. <strong>22 named ways this work can fail, 18 things it refuses to do, and 5 public crop datasets</strong> &mdash; G2F maize, CIMMYT wheat, 3KRG rice, TERRA-REF sorghum phenomics, and AgERA5 climate &mdash; are stated in writing before any code lands. The planned deliverable is one Crop Improvement Dossier that carries biology, licensing, breeding routes, and regulatory paths together. <em>No breeding pipeline, gene-edited product, or trait IP exists, and the page does not claim any.</em></p>
 </td>
